@@ -79,6 +79,8 @@ I am passionate Frontend Developer. I would like for developing web applications
  - Yoox.com-Clone  **[Github Repository](https://github.com/aadarsh11433/PROJECTYOOX)**
 
  - Lumen5.com-Clone  **[Github Repository](https://github.com/sumeetmore1997/moving-scent-7843/tree/master/lumen5)**
+
+- Geekbuying.com-Clone  **[Github Repository]([https://github.com/sumeetmore1997/moving-scent-7843/tree/master/lumen5](https://github.com/tarun-upadhyay/sensitive-meat-4664))**
  
 <br/>
 <br/>
