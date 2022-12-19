@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumeet  More</h1>
 <h3 align="center">Full Stack Web Developer (MERN)</h3>
-<img  src="https://camo.githubusercontent.com/f1572aab0a069b4070bf0ffeb4125c3884ec51d2595b5242f83c4199de9c450a/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032312f30362f322d34362e676966"/>
+<div align="center"><img  src="https://camo.githubusercontent.com/f1572aab0a069b4070bf0ffeb4125c3884ec51d2595b5242f83c4199de9c450a/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032312f30362f322d34362e676966"/></div>
 
 
 ## 🙋‍♂️ About Me
@@ -19,6 +19,8 @@ I am passionate Frontend Developer. I would like for developing web applications
 - 📫 How to reach me **sumeetbmore7@gmail.com**
 
 - 🔭 Know more about me **[Portfolio](https://sumeetmore1997.github.io/)**
+
+- 📫 How to reach me **<a href = "https://www.linkedin.com/in/sumeet-more-368322230/">✔ Linkedin</a>**
 
 
 ## 🚀 Languages and Tools:
@@ -56,6 +58,19 @@ I am passionate Frontend Developer. I would like for developing web applications
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
  </div>
 </div>
+
+# 📊 GitHub Stats:
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=sumeetmore1997&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="github" />
+ <br/>
+ <br/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumeetmore1997&theme=dark&hide_border=false" src="github" />
+ <br/>
+ <br/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeetmore1997&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="github" />
+</div>
+
+
 
 
 ## 🚀 Top Projects :
